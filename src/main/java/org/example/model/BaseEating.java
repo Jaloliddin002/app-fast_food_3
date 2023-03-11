@@ -10,4 +10,5 @@ public class BaseEating extends BaseModel {
     private String name;
     private double price;
     private String ingredients;
+
 }
