@@ -1,5 +1,4 @@
-package org.example.model.food;
-
+package org.example.model;
 import lombok.*;
 import org.example.model.BaseModel;
 @NoArgsConstructor
@@ -11,5 +10,4 @@ public class BaseEating extends BaseModel {
     private String name;
     private double price;
     private String ingredients;
-
 }
