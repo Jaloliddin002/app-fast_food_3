@@ -9,6 +9,7 @@ import org.example.model.BaseModel;
 public class BaseEating extends BaseModel {
     private String name;
     private double price;
+
     private String ingredients;
 
 }
